@@ -1,6 +1,7 @@
 # DESIGN.md — Passeport de groupe « Les Voyageurs Sans Frontières »
 
-Format : DOCUMENT de 8 pages fixes, 1440 × 810 px (16:9), exporté en PDF.
+Format : DOCUMENT de 12 pages fixes, 1440 × 810 px (16:9), exporté en PDF.
+(Initialement 8 pages ; passé à 12 pour reprendre chaque texte de présentation en entier, comme l'exige membres.md : une page par membre.)
 Ce n'est PAS un site web : pas de navigation, pas de boutons, pas de survol, pas de responsive, pas de défilement.
 
 ## 1. Concept
@@ -27,10 +28,10 @@ Règles : 3 couleurs + variantes de transparence, pas d'autre teinte. L'or ne s'
 - Un seul message par page. Beaucoup de blanc. Pas de cartes arrondies empilées, pas de listes à puces denses.
 
 ## 5. Éléments récurrents
-- Tampon : cercle double filet (2 px et 1 px), texte en capitales courbé (ex. « CO-RESPONSABLE · BUT GEA NANTES »), légèrement incliné (−6° à −10°), couleur or sur marine ou marine sur crème. Un tampon par page membre au maximum.
+- Tampon : cercle double filet (2 px et 1 px), texte en capitales courbé (ex. « CO-RESPONSABLE · BUT GEA NANTES »), légèrement incliné (−6° à −10°), couleur or sur marine ou marine sur crème. Un tampon par page membre au maximum. Sur une page crème, le tampon peut mordre sur un coin du portrait ; sur une page marine, il ne touche aucune photo (l'or ne se pose jamais sur du clair).
 - Trajectoire : ligne pointillée fine or, point de départ « NANTES », point d'arrivée marqué « ? » tant que la destination n'est pas fixée.
 - Ligne de codes (type passeport) : une ligne de caractères en capitales avec « < » en bas de la page de couverture et de contact, en Work Sans, très discrète (opacité 40 %).
-- Numérotation : « 01 / 08 » en haut à droite, libellé 14 px.
+- Numérotation : « 01 / 12 » en haut à droite, libellé 14 px.
 
 ## 6. Photos
 - Portraits 4:5, fond neutre, cadrés à hauteur d'épaules ; chaque membre a le même traitement (même taille, même bord crème de 8 px) mais pas la même position sur la page.
@@ -41,10 +42,10 @@ Règles : 3 couleurs + variantes de transparence, pas d'autre teinte. L'or ne s'
 ## 7. Pages
 01 Couverture (marine profond) : titre « Les Voyageurs Sans Frontières », sous-titre « Passeport de groupe · BUT GEA Nantes · 2026-2027 », logo, trajectoire, ligne de codes.
 02 L'équipe (crème) : photo de groupe, 7 prénoms, une phrase sur la formation du groupe.
-03 à 05 Les membres (alternance crème/marine) : 2 à 3 membres par page, photo, prénom, rôle (tampon), 4 à 6 lignes à la première personne, 1 à 2 photos de passions.
-06 Valeurs et points forts (marine) : Voyager · Découvrir · Aider · Partager, quatre mots en grand, une phrase chacun.
-07 Notre organisation et notre apport (crème) : répartition des rôles, ce que nous apportons à une association (visibilité, énergie, compétences).
-08 Contact (marine profond) : adresse mail du groupe, ligne de codes.
+03 à 09 Les membres (alternance crème/marine, un membre par page) : photo, prénom, rôle (tampon), texte de présentation complet à la première personne, citation « Pourquoi ce projet » si elle n'est pas déjà dans le texte, 1 à 2 photos de passions. Ordre : Ethan, Milann, Vasyl, Maxime, Lucas, Ylann, Elio (les pages les plus chargées tombent sur crème).
+10 Valeurs et points forts (marine) : Voyager · Découvrir · Aider · Partager, quatre mots en grand, une phrase chacun.
+11 Notre organisation et notre apport (crème) : répartition des rôles, ce que nous apportons à une association (visibilité, énergie, compétences).
+12 Contact (marine profond) : adresse mail du groupe, ligne de codes.
 
 ## 8. À éviter
 Emojis, icônes génériques, dégradés, ombres portées marquées, effets de verre, coins très arrondis partout, centrage systématique, texte justifié, texte sous 16 pt, pages remplies de paragraphes.
